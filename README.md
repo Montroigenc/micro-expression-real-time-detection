@@ -2,6 +2,8 @@
 
 install https://cmake.org/download/
 
+Download http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
+
 Download http://www.boost.org/ and execute in the command prompt in the directory where you have unzipped boost:
 ##########################################################
 bootstrap.bat #First run the bootstrap.bat file supplied with boost-python
